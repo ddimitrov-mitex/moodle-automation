@@ -1,6 +1,6 @@
 # moodle-automation
 
-Contains various scripts for automation of tedious tasks. Can be used for https://elearn.fmi.uni-sofia.bg/ (Sofia University, Faculty of Mathematics and Informatics).
+Contains various scripts for automation of tedious tasks. Can be used for https://learn.fmi.uni-sofia.bg/ (Sofia University, Faculty of Mathematics and Informatics).
 
 `remote-exam-sessions.py`: Creates separate BigBlueButton session for each student.
 
